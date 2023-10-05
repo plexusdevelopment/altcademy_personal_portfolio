@@ -1170,7 +1170,7 @@ blockquote {
   border: none;
   padding: 8px 16px;
   border-radius: 6px;
-  background: black;
+  background: rgb(105, 104, 104);
   cursor: pointer;
   transition: all 0.3s ease;
 }
