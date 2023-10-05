@@ -796,10 +796,10 @@ p {
 }
 
 /*--------------------------------------------------------------
-# Journal
+# insights
 --------------------------------------------------------------*/
-#journal,
-#journal-blog {
+#insights,
+#insights-blog {
   height: auto;
   width: 100%;
   background: #f7f7f7;
@@ -807,31 +807,31 @@ p {
   position: relative;
 }
 
-#journal-blog {
+#insights-blog {
   background: #fff;
   padding-bottom: 30px;
 }
 
-#journal .journal-block {
+#insights .insights-block {
   display: inline-block;
   height: auto;
   width: 100%;
 }
 
-#journal .journal-block .journal-info {
+#insights .insights-block .insights-info {
   position: relative;
 }
 
-.journal-block .journal-info img {
+.insights-block .insights-info img {
   max-width: 100%;
 }
 
-.journal-block .journal-info .journal-txt {
+.insights-block .insights-info .insights-txt {
   padding: 25px 0px;
   position: relative;
 }
 
-.journal-block .journal-info .journal-txt h4 a {
+.insights-block .insights-info .insights-txt h4 a {
   display: block;
   font-size: 19px;
   line-height: 24px;
@@ -841,19 +841,19 @@ p {
   transition: all 0.5s ease-in-out 0s;
 }
 
-.journal-block .journal-info .journal-txt h4 a:hover {
+.insights-block .insights-info .insights-txt h4 a:hover {
   color: #b8a07e;
   transition: all 0.5s ease-in-out 0s;
 }
 
-.journal-block .journal-info .journal-txt p {
+.insights-block .insights-info .insights-txt p {
   margin: 0;
   font-size: 14px;
   line-height: 24px;
 }
 
 /*--------------------------------------------------------------
-# Journal
+# insights
 --------------------------------------------------------------*/
 #contact {
   height: auto;
@@ -945,7 +945,7 @@ p {
 /*-----------------------------------------------------------------------------------*/
 /*  /* Single page */
 /*-----------------------------------------------------------------------------------*/
-#journal-blog {
+#insights-blog {
   padding-top: 140px;
 }
 
@@ -970,7 +970,7 @@ p {
   width: 100%;
 }
 
-.journal-txt h4 a {
+.insights-txt h4 a {
   display: block;
   font-size: 19px;
   line-height: 24px;
@@ -980,7 +980,7 @@ p {
   transition: all 0.5s ease-in-out 0s;
 }
 
-.journal-txt h4 a:hover {
+.insights-txt h4 a:hover {
   color: #b8a07e;
   transition: all 0.5s ease-in-out 0s;
 }
@@ -1190,8 +1190,8 @@ blockquote {
     display: inline-block;
   }
 
-  /* journal */
-  #journal .journal-block .journal-info {
+  /* insights */
+  #insights .insights-block .insights-info {
     margin-bottom: 30px;
   }
 
@@ -1273,8 +1273,8 @@ blockquote {
     display: inline-block;
   }
 
-  /* journal */
-  #journal .journal-block .journal-info {
+  /* insights */
+  #insights .insights-block .insights-info {
     margin-bottom: 30px;
   }
 
@@ -1356,8 +1356,8 @@ blockquote {
     display: inline-block;
   }
 
-  /* journal */
-  #journal .journal-block .journal-info {
+  /* insights */
+  #insights .insights-block .insights-info {
     margin-bottom: 30px;
   }
 
@@ -1438,8 +1438,8 @@ blockquote {
     margin: 20px;
   }
 
-  /* journal */
-  #journal .journal-block .journal-info {
+  /* insights */
+  #insights .insights-block .insights-info {
     margin-bottom: 30px;
   }
 
@@ -1520,8 +1520,8 @@ blockquote {
     margin: 20px;
   }
 
-  /* journal */
-  #journal .journal-block .journal-info {
+  /* insights */
+  #insights .insights-block .insights-info {
     margin-bottom: 30px;
   }
 
